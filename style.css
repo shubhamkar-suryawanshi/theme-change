@@ -1,0 +1,44 @@
+.day {
+  background-color: white;
+  color: black;
+}
+
+.night {
+  background-color: black;
+  color: gold;
+}
+
+.button_night {
+  background-color: darkblue;
+  color: white;
+}
+
+.button_day {
+  background-color: white;
+  color: black;
+}
+
+button{
+    /* margin: auto; */
+    /* text-align: center; */
+    margin-left: 40%;
+}
+
+html,
+body {
+  margin: 0px;
+  height: 100%;
+}
+
+p{
+    text-align: center;
+}
+
+#app {
+  height: 15%;
+  padding: 10px;
+  width: 50%;
+  border: 1px solid gold;
+  margin: auto;
+  margin-top: 15%;
+}
